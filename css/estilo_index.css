@@ -28,13 +28,13 @@ body {
 }
 
 .login-header {
-  background: #28d;
+  background: rgb(131, 230, 98);
   padding: 20px;
   font-size: 1.4em;
   font-weight: normal;
   text-align: center;
   text-transform: uppercase;
-  color: #fff;
+  color: rgb(226, 21, 185);
 }
 
 .login-container {
