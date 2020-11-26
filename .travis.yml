@@ -11,7 +11,7 @@ deploy:
 
   provider: heroku
 
-  app: practica_dados_apache
+  app: herokudados
 
   api_key:
 
