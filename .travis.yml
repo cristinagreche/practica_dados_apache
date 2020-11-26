@@ -11,7 +11,7 @@ deploy:
 
   provider: heroku
 
-  app: pdes-flappernews
+  app: practica_dados_apache
 
   api_key:
 
