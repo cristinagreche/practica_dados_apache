@@ -15,5 +15,5 @@ deploy:
 
   api_key:
 
-    secure: $HEROKU_API_KEY 
-    #45552efc-ccc0-4be3-be33-c43e528b1a3d
+    secure: 45552efc-ccc0-4be3-be33-c43e528b1a3d
+    #$HEROKU_API_KEY 
