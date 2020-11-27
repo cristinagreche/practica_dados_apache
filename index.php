@@ -29,7 +29,7 @@ echo'<!DOCTYPE html>
 <div class="login">
 <div class="login-triangle"></div>
 
-<h2 class="login-header">Log in</h2>
+<h2 class="login-header">hola que tal</h2>
 
 <form class="login-container" action="index.php" method="post">
   <p><input name="email" type="email" placeholder="Email"></p>
