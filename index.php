@@ -24,6 +24,11 @@ echo'<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/estilo_index.css" rel="stylesheet" type="text/css">
     <title>Login</title>
+    <style>
+    body{
+      background: pink;
+    }
+    </style>
 </head>
 <body>
 <div class="login">
