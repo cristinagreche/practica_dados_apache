@@ -34,7 +34,7 @@ echo'<!DOCTYPE html>
 <div class="login">
 <div class="login-triangle"></div>
 
-<h2 class="login-header">hola que tal. Hoy es día 1 de diciembre de 2020</h2>
+<h2 class="login-header">hola que tal. Hoy es día 1 de diciembre de 2020 o mejor dicho 7</h2>
 
 <form class="login-container" action="index.php" method="post">
   <p><input name="email" type="email" placeholder="Email"></p>
